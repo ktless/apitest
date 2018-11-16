@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  [
+    { "id" : "아서 모건",
+      "img": "https://s3.namuwikiusercontent.com/s/4d9e0725c2387216d74723cf2aedd4acb002e1a65b93e39a9197d2b1378c88101321ad536cd804f02eda8b1e5c950751c4a06cf113cfefeaffb6fd30389cea3ce4e49e54fcdb9ba6f0765f85cd54d14a0e77f5b9ed886256fb047112460cd417", 
+      "name": "아서 모건 (Arthur Morgan)" 
+    },
+    { "id" : "존 마스턴",
+      "img": "https://s3.namuwikiusercontent.com/s/21b9631f2ffb742a00c7b8bb09188a60b46e4c4c3168553f63dafc57238f4220f8e202e44ae245b5b689a35c1efb6d23f0d544fe4562efeff5b3af8f4bdd9b636b19c905b4e83f58142ffab5e4745c0b708010b0f33d48ccfb581cc551b857ab", 
+      "name": "존 마스턴 (John Marston)" 
+    }
+  ]
 }
