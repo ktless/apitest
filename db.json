@@ -1,7 +1,7 @@
 {
   "profiles" : 
   [
-    { "id" : "아서 모건",
+    { "id" : 1,
       "img": "https://s3.namuwikiusercontent.com/s/4d9e0725c2387216d74723cf2aedd4acb002e1a65b93e39a9197d2b1378c88101321ad536cd804f02eda8b1e5c950751c4a06cf113cfefeaffb6fd30389cea3ce4e49e54fcdb9ba6f0765f85cd54d14a0e77f5b9ed886256fb047112460cd417", 
       "name": "아서 모건 (Arthur Morgan)" 
     },
