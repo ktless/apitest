@@ -2,17 +2,17 @@
   "profiles" : 
   [
     { "id" : "아서 모건",
-      "img": "https://s3.namuwikiusercontent.com/s/4d9e0725c2387216d74723cf2aedd4acb002e1a65b93e39a9197d2b1378c88101321ad536cd804f02eda8b1e5c950751c4a06cf113cfefeaffb6fd30389cea3ce4e49e54fcdb9ba6f0765f85cd54d14a0e77f5b9ed886256fb047112460cd417", 
+      "img": "https://namu.wiki/w/%ED%8C%8C%EC%9D%BC:Arthur%20Morgan%20RDR2.jpg", 
       "name": "아서 모건 (Arthur Morgan)",
       "desc" : "어릴 때부터 더치로부터 가장 신뢰받고 유능한 집행자였던 아서는 무법자의 삶이 인생의 전부입니다. 날카롭고 냉철하며 무자비하지만 명예는 지킬 줄 압니다. 맡은 일은 반드시 해내는 사내입니다."
     },
     { "id" : "존 마스턴",
-      "img": "https://s3.namuwikiusercontent.com/s/21b9631f2ffb742a00c7b8bb09188a60b46e4c4c3168553f63dafc57238f4220f8e202e44ae245b5b689a35c1efb6d23f0d544fe4562efeff5b3af8f4bdd9b636b19c905b4e83f58142ffab5e4745c0b708010b0f33d48ccfb581cc551b857ab", 
+      "img": "https://namu.wiki/w/%ED%8C%8C%EC%9D%BC:John%20Marston%20RDR2.jpg", 
       "name": "존 마스턴 (John Marston)" ,
       "desc" : "고아였던 길거리 꼬마 존은 늘 임기 응변으로 하루하루를 살아야 했고, 12살 때 더치의 보호 아래로 들어왔습니다. 판단이 빠르고 용감하며 굳은 의지를 지닌 존과 아서는 더치가 가장 자랑스러워하는 심복입니다."
     },
     { "id" : "더치 반 더 린드",
-      "img": "https://s3.namuwikiusercontent.com/s/bb82f76d89e61089b93fd6fcfda2e760fe792ec08ea8c4968dcc982599b2ede2c25e449a672a4c69cd48b4597c452711e401631b3d6819334d10f0c3213717060365edae581615eac75871436bac0d276af57d8375fabdf48ad2429492b28057", 
+      "img": "https://namu.wiki/w/%ED%8C%8C%EC%9D%BC:Dutch%20Van%20Der%20Linde%20RDR2.jpg", 
       "name": "더치 반 더 린드 (Dutch Van Der Linde)" ,
       "desc" : "무법자와 사회 부적응자들로 구성된 제법 큰 갱단의 리더입니다. 이상주의자이자 무정부주의자이며 카리스마가 있고 박식하고 유복하지만, 잠식하는 현대 세계의 압박 속에 흐트러지기 시작할지도 모릅니다."
     }    
